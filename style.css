@@ -1,0 +1,41 @@
+* {
+    background-color: #131313;
+    color: white;
+    font-family: 'Red Hat Display', sans-serif;
+    padding: 5px;
+    margin: 10px;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+.herotxt {
+    padding: 0%;
+    margin: 0%;
+    font-size: 250%;
+    font-weight: 400;
+}
+
+li {
+    padding: 0%;
+}
+
+li:nth-child(6) {
+    list-style-type: none; 
+}
+
+.herotxt p {
+    font-size: 60%;
+}
+
+.Sat {
+    background-image: linear-gradient(rgb(140, 0, 255), rgb(0, 255, 76));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bolder;
+}
+
+.herolinks img {
+    size: 15px;
+}
